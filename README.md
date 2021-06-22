@@ -15,8 +15,8 @@ Atualmente trabalhando como desenvolvedor de software de back-end em [Zup IT](ht
 
 <hr/>
 
-<details>
-  <summary><b>🔧 Conhecimento tecnológico principal 🔨</b></summary>
+
+<b>🔧 Conhecimento tecnológico principal 🔨</b>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)
@@ -33,21 +33,19 @@ Atualmente trabalhando como desenvolvedor de software de back-end em [Zup IT](ht
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)
-</details>
 
 
-<details>
-  <summary><b> 📚 Outros conhecimentos, sempre aprendendo 💡</b></summary>
+
+
+ <b> 📚 Outros conhecimentos, sempre aprendendo 💡</b>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)
 ![Kafka](https://img.shields.io/badge/APACHE%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
 
-</details>
 
-<details>
-  <summary><b>📊 GitHub  Analytics ⚙</b></summary>
+<b>📊 GitHub  Analytics ⚙</b>
   <br/>
     <p align="center">
         <img height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnb-boss&layout=compactcount_private=true&theme=tokyonight" />
@@ -58,7 +56,7 @@ Atualmente trabalhando como desenvolvedor de software de back-end em [Zup IT](ht
     <p align="center">
         <img height="157px" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnb-boss&hide_border=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
     </p>
-</details>
+
 
 <hr/>
 <br/>
