@@ -1,6 +1,6 @@
 <h1> Bem Vindo :) </h1>
 
-### 😉 About Me
+### 😉 Sobre mim
 
 - 👨🏾‍💻 
 Atualmente trabalhando como desenvolvedor de software de back-end em [Zup IT](https://www.zup.com.br/) 
