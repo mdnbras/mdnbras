@@ -48,7 +48,7 @@ Atualmente trabalhando como desenvolvedor de software de back-end em [Zup IT](ht
 <b>📊 GitHub  Analytics ⚙</b>
   <br/>
     <p align="center">
-        <img height="157px" src="https://github-readme-stats.vercel.app/api/?username=mdnb-boss&count_private=true&show_icons=true&theme=tokyonight" />
+        <img height="157px" src="https://github-readme-stats.vercel.app/api/?username=mdnbras&count_private=true&show_icons=true&theme=tokyonight" />
     </p>
     <p align="center">
         <img height="157px" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnb-boss&hide_border=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
