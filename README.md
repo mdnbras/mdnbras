@@ -3,7 +3,7 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como desenvolvedor de software de back-end em [Zup IT](https://www.zup.com.br/) 
+Atualmente trabalhando como Engenheiro de Software Senior na Interage Sistemas Empresariais
 - 💻 Codando desde 2013 
 - 🚀 Em busca da minha especialidade 
  
