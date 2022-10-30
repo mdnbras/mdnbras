@@ -3,7 +3,7 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como Engenheiro de Software Senior na Interage Sistemas Empresariais
+Atualmente trabalhando como `Senior Software Engineer | TechLead`
 - 💻 Codando desde 2013 
 - 🚀 Em busca da minha especialidade 
  
