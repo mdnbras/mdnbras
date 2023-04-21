@@ -6,6 +6,8 @@
 Atualmente trabalhando como `Senior Software Engineer | TechLead`
 - 💻 Codando desde 2013 
 - 🚀 Em busca da minha especialidade 
+
+![Visitor Count](https://profile-counter.glitch.me/mdnbras/count.svg)
  
 
 <p align="center">
