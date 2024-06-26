@@ -3,7 +3,7 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como `Senior Software Engineer | TechLead na ![Nexti](https://nexti.com/)`
+Atualmente trabalhando como Senior Software Engineer | TechLead na ![Nexti](https://nexti.com/)
 - 💻 Codando desde 2013 
 - 🚀 Em busca da minha especialidade 
 
