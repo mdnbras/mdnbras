@@ -3,7 +3,7 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como Senior Software Engineer | TechLead na <a href="https://www.linkedin.com/in/marcelo-daniel-8a97a411b/">https://nexti.com</a>
+Atualmente trabalhando como Senior Software Engineer | TechLead na <a href="https://nexti.com">NEXTI</a>
 - 💻 Codando desde 2013 
 - 🚀 Em busca da minha especialidade 
 
