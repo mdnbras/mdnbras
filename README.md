@@ -3,7 +3,7 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como Senior Software Engineer | TechLead na <a href="https://nexti.com">NEXTI</a> | DevOps na <a href="https://encibra.com.br/">Encibra</a>
+Atualmente trabalhando como Senior Software Engineer | TechLead na <a href="https://nexti.com">NEXTI</a> | Software Architect na <a href="https://encibra.com.br/">Encibra</a>
 - 💻 Codando desde 2013 
 - 🚀 Em busca da minha especialidade 
 
