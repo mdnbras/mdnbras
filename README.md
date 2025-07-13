@@ -3,9 +3,8 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como Senior Software Engineer | TechLead na <a href="https://nexti.com">NEXTI</a> | Software Architect na <a href="https://encibra.com.br/">Encibra</a>
+Atualmente trabalhando como Specialist Software Engineer na <a href="https://ciandt.com">CI&T</a> | Software Architect na <a href="https://encibra.com.br/">Encibra</a>
 - 💻 Codando desde 2013 
-- 🚀 Em busca da minha especialidade 
 
 ![Visitor Count](https://profile-counter.glitch.me/mdnbras/count.svg)
  
