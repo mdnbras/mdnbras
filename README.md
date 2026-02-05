@@ -3,7 +3,7 @@
 ### 😉 Sobre mim
 
 - 👨🏾‍💻 
-Atualmente trabalhando como Specialist Software Engineer na <a href="https://ciandt.com">CI&T</a> | Software Architect na <a href="https://encibra.com.br/">Encibra</a>
+Atualmente trabalhando como Specialist Software Engineer na <a href="https://ciandt.com">CI&T</a>
 - 💻 Codando desde 2013 
 
 ![Visitor Count](https://profile-counter.glitch.me/mdnbras/count.svg)
