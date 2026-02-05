@@ -4,7 +4,7 @@
 
 - 👨🏾‍💻 
 Atualmente trabalhando como Specialist Software Engineer na <a href="https://ciandt.com">CI&T</a>
-- 💻 Codando desde 2013 
+- 💻 Codando desde 2011 
 
 ![Visitor Count](https://profile-counter.glitch.me/mdnbras/count.svg)
  
